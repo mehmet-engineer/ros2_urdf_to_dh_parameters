@@ -1,5 +1,5 @@
 # ros2_urdf_to_dh_parameters
-ROS2 Package for Converting URDF To DH Parameters
+ROS2 Package for Converting URDF To DH Parameters. Assuming that joint frames are standardized. Otherwise, it may not give good results.
 
 Original Repository -> https://github.com/mcevoyandy/urdf_to_dh
 
